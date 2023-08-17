@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-***SIDE PROJECT** Using HTML, CSS and JavaScript for 30 Days*
+***'SIDE PROJECT'** Using HTML, CSS and JavaScript for 30 Days*
 
 <br>
 
