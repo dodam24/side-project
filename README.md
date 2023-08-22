@@ -18,3 +18,7 @@
 
 ### 4. Random Password Generator
 <img alt="Random Password Generator" src="https://github.com/dodam24/side-project-30/assets/121652059/0721cc4b-0373-497d-a639-1d09a2ba3041" width="40%">
+
+
+### 5. Password Toggle
+<img alt="Password Toggle" src="https://github.com/dodam24/side-project-30/assets/121652059/51501e78-1aed-427f-87cd-a4a3aa15b7d5" width="40%">
