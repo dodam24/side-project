@@ -1,5 +1,5 @@
 # JavaScript Projects
-- ***'SIDE PROJECT 30'** &nbsp; Using HTML, CSS and JavaScript for 30 Days*
+- ***Personal Projects** Using HTML, CSS and JavaScript for 30 Days*
 
 <br>
 
@@ -22,3 +22,6 @@
 
 ### 5. Password Toggle
 <img alt="Password Toggle" src="https://github.com/dodam24/side-project-30/assets/121652059/51501e78-1aed-427f-87cd-a4a3aa15b7d5" width="40%">
+
+### 6. Modal Box
+<img alt="Modal Box" src="https://github.com/dodam24/side-project-30/assets/121652059/3236f85f-10dd-4286-90f9-774fc1539e32" width="40%">
