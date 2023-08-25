@@ -30,3 +30,8 @@
 
 ### 7. Notes App
 <img alt="Notes App" src="https://github.com/dodam24/side-project-30/assets/121652059/ac5a1f2e-1fd6-43e9-9165-a6eb129b486f" width="40%">
+
+
+### 8. Toast Notification
+<img alt="Toast Notification" src="https://github.com/dodam24/side-project-30/assets/121652059/fdfe6010-3055-4c41-9565-b6bedc747825" width="40%">
+
