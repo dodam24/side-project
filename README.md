@@ -1,5 +1,5 @@
 # JavaScript Projects
-- ***Personal Projects** Using HTML, CSS and JavaScript for 30 Days*
+- **Some Side Projects** Using HTML, CSS and JavaScript for practice
 
 <br>
 
