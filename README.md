@@ -38,3 +38,7 @@
 
 ### 9. Email Subscription Form With Google Sheets
 <img alt="Email Subscription Form" src="https://github.com/dodam24/side-project-for-prac/assets/121652059/ac438790-5d94-4eec-bbe1-da4923eb5bc9" width="40%">
+
+
+### 10. Digital Clock
+<img alt="Digital Clock" src="https://github.com/dodam24/side-project-for-prac/assets/121652059/3cb1f65e-f909-4a83-95dc-1d0ee91b411e" width="40%">
